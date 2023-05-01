@@ -83,12 +83,21 @@ La información principal que desea saber la empresa es:
 
 ### 1.5. Entregables
 
-Para un proyecto, su repositorio/carpeta debe contener lo siguiente:
+Para el proyecto, su repositorio/carpeta debe contener lo siguiente:
 
   - README.md con 
     - Descripción del problema
     - Instrucciones de como correr el proyecto
+  
+  - Data
+    - Debe confirmar el conjunto de datos que utilizó, o tener instrucciones claras sobre cómo descargar el conjunto de datos.
 
+  - Archivos
+    - Archivos donde se generó el ETL, SSAS, Power BI u otros
+  
+  - Conclusiones
+    - El repositorio debe contener resumen de la experiencia del proyecto, impedimentos, logoros y comentarios adicionales por cada miembro del equipo.
+    
 
 
 ---
