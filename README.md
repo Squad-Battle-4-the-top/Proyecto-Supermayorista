@@ -6,17 +6,16 @@
 
 ---
 ## Indice
-
-- 1.[Descripción del proyecto](#1-descripción-del-proyecto)
-  - 1.1.[Proyecto SUPERMAYORISTA SAC](#11-proyecto-supermayorista-sac)
+- 1.[Proyecto SUPERMAYORISTA SAC](#1-proyecto-supermayorista-sac)
+  - 1.1.[Descripción del proyecto](#1-descripción-del-proyecto)
   - 1.2.[Tareas](#12-tareas)
   - 1.3.[Puntos del negocio](#13-puntos-del-negocio)
   - 1.4.[Herramientas o Tecnologías](#14-herramientas-o-tecnologías)
   - 1.5.[Entregables](#15-entregables)
 
 ---
-## 1. Descripción del proyecto
-### 1.1. Proyecto SUPERMAYORISTA S.A.C.
+## 1. Proyecto SUPERMAYORISTA S.A.C.
+### 1.1. Descripción
 
 <p align="justify">
 <b>Supermayorista</b> es una empresa que vende productos variados de supermercado a nivel nacional donde actualmente la empresa cuenta con una base de datos de su sistema donde almacena sus productos, clientes y las ventas realizadas sin embargo el sistema solo arroja reportes operacionales donde la información no se encuentra procesada para el análisis. 
