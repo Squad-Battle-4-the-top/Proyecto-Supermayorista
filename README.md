@@ -98,6 +98,6 @@ Para el proyecto, su repositorio/carpeta debe contener lo siguiente:
   - Conclusiones
     - El repositorio debe contener resumen de la experiencia del proyecto, impedimentos, logoros y comentarios adicionales por cada miembro del equipo.
     
-
+d
 
 ---
