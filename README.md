@@ -11,8 +11,8 @@
   - 1.1.[Proyecto SUPERMAYORISTA SAC](#11-proyecto-supermayorista-sac)
   - 1.2.[Tareas](#12-tareas)
   - 1.3.[Puntos del negocio](#13-puntos-del-negocio)
-  - 1.4.[Implementacion](#14-implementacion)
-
+  - 1.4.[Herramientas o Tecnologías](#14-herramientas-o-tecnologías)
+  - 1.5.[Entregables](#15-entregables)
 
 ---
 ## 1. Descripción
@@ -70,18 +70,17 @@ La información principal que desea saber la empresa es:
   <img src="https://github.com/Squad-Battle-4-the-top/Proyecto-Supermayorista/blob/main/images/metadata_banco.png">
 </p>
 
-### 1.4. Tecnologías 
+### 1.4. Herramientas o Tecnologías
 
-No es necesario limitarse a las tecnologías cubiertas en el curso, también puedes usar alternativas:
+No es necesario limitarse a las herramientas cubiertas en el curso, también puedes usar alternativas:
 
 1.	Se requiere que hagan el modelo dimensional, Dashboard
     - ETL (Puede ser por Integration Service), Power Query, Excel, ...
     - Analysis Service (MDX), Power pivot, Power BI (DAX), ...
     - Visualización (En cualquier programa que saben utilizar más).
 2.	Se considera el aporte a estrategias de mejora.
-3.	Se considera otros métodos adicionales de aporte o complementario al proyecto.
-
-Si usan alguna herramienta que no se cubrió en el curso, asegurarse de explicar qué hace la herramienta.
+3.  Se considera otros métodos adicionales de aporte o complementario al proyecto.
+4.  Si usan alguna herramienta que no se cubrió en el curso, asegurarse de explicar qué hace la herramienta.
 
 ### 1.5. Entregables
 
