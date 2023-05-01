@@ -66,7 +66,7 @@ La información principal que desea saber la empresa es:
 7.  La metadata y/o lectura del archivo plano donde se encuentra almacenado las ventas realizadas, estos puntos son los siguientes para que tengan en consideración para su análisis.
 
 <p align="center">
-  <img src="https://github.com/Squad-Battle-4-the-top/Proyecto-Supermayorista/blob/main/images/dim_banco.png">
+  <img src="https://github.com/Squad-Battle-4-the-top/Proyecto-Supermayorista/blob/main/images/metadata_banco.png">
 </p>
 
 
