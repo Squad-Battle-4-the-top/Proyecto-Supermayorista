@@ -9,8 +9,9 @@
 
 - 1.[Descripción](#1-descripción)
   - 1.1.[Proyecto SUPERMAYORISTA SAC](#11-proyecto-supermayorista-sac)
-  - 1.2.[Conclusión](#12-conclusión)
+  - 1.2.[Solicitud](#12-solicitud)
   - 1.3.[Puntos del negocio](#13-puntos-del-negocio)
+  - 1.4.[Implementacion](#14-implementacion)
 
 
 ---
@@ -18,7 +19,7 @@
 ### 1.1. Proyecto SUPERMAYORISTA S.A.C.
 
 <p align="justify">
-Supermayorista es una empresa que vende productos variados de supermercado a nivel nacional donde actualmente la empresa cuenta con una base de datos de su sistema donde almacena sus productos, clientes y las ventas realizadas sin embargo el sistema solo arroja reportes operacionales donde la información no se encuentra procesada para el análisis. 
+<b>Supermayorista</b> es una empresa que vende productos variados de supermercado a nivel nacional donde actualmente la empresa cuenta con una base de datos de su sistema donde almacena sus productos, clientes y las ventas realizadas sin embargo el sistema solo arroja reportes operacionales donde la información no se encuentra procesada para el análisis. 
 </p>
 <p align="justify">
 Sin embargo, la empresa Supermayorista contrato a un analista de negocio para que pudiera explotar la información de su data pero el tiempo de entrega del analista de negocio es muy lento, ya que en promedio demora por reporte solicitado entre 2 a 3 días dependiendo la dificultad del caso.
@@ -26,12 +27,12 @@ Sin embargo, la empresa Supermayorista contrato a un analista de negocio para qu
 <p align="justify">
 También han automatizado sus ventas desde el año 2022 a través de los canales de bancos pero pagando una comisión por cada documento de pago, dicha información les llega en un archivo plano por mes, para que puedan realizar su cierre al inicio del próximo mes.
   
-Por eso mismo Supermayorista desea contratar los servicios de Datagrowth Community para implementar un Business Intelligence, Business Analitycs según sea el caso.
+Por eso mismo Supermayorista desea contratar los servicios de <b>Data Growth Community</b> para implementar un Business Intelligence, Business Analitycs según sea el caso.
 </p>
 
-### 1.2. Conclusión
+### 1.2. Solicitud 
 
-El gerente solicita un modelo donde la obtención de la información sea oportuna, limpia y escalable.
+El gerente solicita un modelo donde la obtención de la información sea **oportuna, limpia y escalable.**
 
 La información principal que desea saber la empresa es: 
 
@@ -42,8 +43,8 @@ La información principal que desea saber la empresa es:
 5. Zona con mayor venta y cantidad (Departamento, Distrito).
 6. El banco más factible para solicitar un ajuste de comisión
 7. El top de los vendedores que más comisionan por venta, Q(cantidad), S/ (Monto)
-8. Pronosticar las ventas del 2023.
-9. Estrategias para subir las ventas 2023.
+8. Pronosticar las ventas del 2023. (Opcional)
+9. Estrategias para subir las ventas 2023. (Opcional)
 
 ### 1.3. Puntos del negocio
 
@@ -69,6 +70,24 @@ La información principal que desea saber la empresa es:
   <img src="https://github.com/Squad-Battle-4-the-top/Proyecto-Supermayorista/blob/main/images/metadata_banco.png">
 </p>
 
+### 1.4. Implementacion
+
+1.	Se requiere que hagan el modelo dimensional, Dashboard
+    - ETL (Puede ser por Integration Service) o Power Query o Excel.
+    - Analysis Service (MDX) o Power pivot o Power BI (DAX).
+    - Visualización (En cualquier programa que saben utilizar más).
+
+2.	Se considera el aporte a estrategias de mejora.
+3.	Se considera otros métodos adicionales de aporte o complementario al proyecto.
+
+
+### 1.5. Entregables
+
+Para un proyecto, su repositorio/carpeta debe contener lo siguiente:
+
+  - README.md con 
+    - Descripción del problema
+    - Instrucciones de como correr el proyecto
 
 
 
