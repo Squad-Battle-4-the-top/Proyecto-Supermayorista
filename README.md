@@ -85,19 +85,17 @@ La información principal que desea saber la empresa es:
 
 Para el proyecto, su repositorio/carpeta debe contener lo siguiente:
 
-  - README.md con 
+1. README.md con:
     - Descripción del problema
     - Instrucciones de como correr el proyecto
   
-  - Data
+2. Data
     - Debe confirmar el conjunto de datos que utilizó, o tener instrucciones claras sobre cómo descargar el conjunto de datos.
 
-  - Archivos
+3. Archivos
     - Archivos donde se generó el ETL, SSAS, Power BI u otros
   
-  - Conclusiones
+4. Conclusiones
     - El repositorio debe contener resumen de la experiencia del proyecto, impedimentos, logoros y comentarios adicionales por cada miembro del equipo.
     
-d
-
 ---
