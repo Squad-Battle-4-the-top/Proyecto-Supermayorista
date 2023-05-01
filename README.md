@@ -7,7 +7,7 @@
 ---
 ## Indice
 
-- 1.[Descripción](#1-descripción)
+- 1.[Descripción del proyecto](#1-descripción-del-proyecto)
   - 1.1.[Proyecto SUPERMAYORISTA SAC](#11-proyecto-supermayorista-sac)
   - 1.2.[Tareas](#12-tareas)
   - 1.3.[Puntos del negocio](#13-puntos-del-negocio)
@@ -15,7 +15,7 @@
   - 1.5.[Entregables](#15-entregables)
 
 ---
-## 1. Descripción
+## 1. Descripción del proyecto
 ### 1.1. Proyecto SUPERMAYORISTA S.A.C.
 
 <p align="justify">
