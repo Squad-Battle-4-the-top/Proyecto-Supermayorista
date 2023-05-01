@@ -9,7 +9,7 @@
 
 - 1.[Descripción](#1-descripción)
   - 1.1.[Proyecto SUPERMAYORISTA SAC](#11-proyecto-supermayorista-sac)
-  - 1.2.[Solicitud](#12-solicitud)
+  - 1.2.[Tareas](#12-tareas)
   - 1.3.[Puntos del negocio](#13-puntos-del-negocio)
   - 1.4.[Implementacion](#14-implementacion)
 
@@ -30,7 +30,7 @@ También han automatizado sus ventas desde el año 2022 a través de los canales
 Por eso mismo Supermayorista desea contratar los servicios de <b>Data Growth Community</b> para implementar un Business Intelligence, Business Analitycs según sea el caso.
 </p>
 
-### 1.2. Solicitud 
+### 1.2. Tareas
 
 El gerente solicita un modelo donde la obtención de la información sea **oportuna, limpia y escalable.**
 
@@ -70,16 +70,18 @@ La información principal que desea saber la empresa es:
   <img src="https://github.com/Squad-Battle-4-the-top/Proyecto-Supermayorista/blob/main/images/metadata_banco.png">
 </p>
 
-### 1.4. Implementacion
+### 1.4. Tecnologías 
+
+No es necesario limitarse a las tecnologías cubiertas en el curso, también puedes usar alternativas:
 
 1.	Se requiere que hagan el modelo dimensional, Dashboard
-    - ETL (Puede ser por Integration Service) o Power Query o Excel.
-    - Analysis Service (MDX) o Power pivot o Power BI (DAX).
+    - ETL (Puede ser por Integration Service), Power Query, Excel, ...
+    - Analysis Service (MDX), Power pivot, Power BI (DAX), ...
     - Visualización (En cualquier programa que saben utilizar más).
-
 2.	Se considera el aporte a estrategias de mejora.
 3.	Se considera otros métodos adicionales de aporte o complementario al proyecto.
 
+Si usan alguna herramienta que no se cubrió en el curso, asegurarse de explicar qué hace la herramienta.
 
 ### 1.5. Entregables
 
@@ -87,15 +89,14 @@ Para el proyecto, su repositorio/carpeta debe contener lo siguiente:
 
 1. README.md con:
     - Descripción del problema
-    - Instrucciones de como correr el proyecto
-  
+    - Instrucciones de cómo correr el proyecto.
 2. Data
-    - Debe confirmar el conjunto de datos que utilizó, o tener instrucciones claras sobre cómo descargar el conjunto de datos.
-
+    - Debe contener el conjunto de datos que utilizó, o tener instrucciones claras sobre cómo descargar el conjunto de datos.
 3. Archivos
-    - Archivos donde se generó el ETL, SSAS, Power BI u otros
-  
+    - Archivos donde se generó el ETL, SSIS, SSAS, Power BI u otros.
 4. Conclusiones
-    - El repositorio debe contener resumen de la experiencia del proyecto, impedimentos, logoros y comentarios adicionales por cada miembro del equipo.
+    - El repositorio debe contener resumen de la experiencia del proyecto, impedimentos, logros y comentarios adicionales por cada miembro del equipo.
     
 ---
+
+
