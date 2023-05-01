@@ -35,7 +35,7 @@ El gerente solicita un modelo donde la obtención de la información sea oportun
 
 La información principal que desea saber la empresa es: 
 
-1. Total, de ventas por periodo.
+1. Total de ventas por periodo.
 2. Los productos más vendidos (categoría, subcategoria).
 3. Los vendedores destacados.
 4. Los supervisores con baja efectividad.
@@ -60,9 +60,14 @@ La información principal que desea saber la empresa es:
 6. La tabla de comisiones que el banco cobra por cada documento de pago es:
 
 <p align="center">
-  <img src="https://github.com/JesusAcuna/Kitchenware_classification/blob/master/images/kaggle-API.png">
+  <img src="https://github.com/Squad-Battle-4-the-top/Proyecto-Supermayorista/blob/main/images/dim_banco.png">
 </p>
 
+7.  La metadata y/o lectura del archivo plano donde se encuentra almacenado las ventas realizadas, estos puntos son los siguientes para que tengan en consideración para su análisis.
+
+<p align="center">
+  <img src="https://github.com/Squad-Battle-4-the-top/Proyecto-Supermayorista/blob/main/images/dim_banco.png">
+</p>
 
 
 
