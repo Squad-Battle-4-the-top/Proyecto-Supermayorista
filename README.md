@@ -7,11 +7,18 @@
 ---
 ## Indice
 - 1.[Proyecto SUPERMAYORISTA SAC](#1-proyecto-supermayorista-sac)
-  - 1.1.[Descripción del proyecto](#1-descripción-del-proyecto)
+  - 1.1.[Descripción](#1-descripción)
   - 1.2.[Tareas](#12-tareas)
   - 1.3.[Puntos del negocio](#13-puntos-del-negocio)
   - 1.4.[Herramientas o Tecnologías](#14-herramientas-o-tecnologías)
   - 1.5.[Entregables](#15-entregables)
+- 2.[Modelamiento](#2-modelamiento)
+- 3.[Carga Incremental](#3-carga-incremental)
+  - 3.1.[SQL Server Integration Services - SSIS](#31-sql-server-integration-services---ssis)
+  - 3.2.[Python](#32-python)
+- 4.[Dashboard](#4-dashboard)
+  - 4.1.[Power BI](#41-power-bi)
+  - 4.2.[Looker Studio](#42-looker-studio)
 
 ---
 ## 1. Proyecto SUPERMAYORISTA S.A.C.
@@ -96,5 +103,19 @@ Para el proyecto, su repositorio/carpeta debe contener lo siguiente:
     - El repositorio debe contener resumen de la experiencia del proyecto, impedimentos, logros y comentarios adicionales por cada miembro del equipo.
     
 ---
+
+## 2. Modelamiento
+
+## 3. Carga incremental
+
+### 3.1. SQL Server Integration Services - SSIS
+
+### 3.2. Python
+
+## 4. Dashboard
+
+### 4.1. Power BI
+
+### 4.2. Looker Studio
 
 
