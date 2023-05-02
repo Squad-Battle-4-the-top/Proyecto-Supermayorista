@@ -112,7 +112,7 @@ Para el proyecto, su repositorio/carpeta debe contener lo siguiente:
 --
 
 <p align="center">
-  <img src="Imagenes/Diagrama_ER_Supermayorista.JPG">
+  <img src="Imagenes/Diagrama_ER_Supermayorista.jpg">
 </p>
 
 ### 2.1. Modelo 1
