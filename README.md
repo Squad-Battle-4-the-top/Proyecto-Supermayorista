@@ -116,7 +116,17 @@ Para el proyecto, su repositorio/carpeta debe contener lo siguiente:
 </p>
 
 ### 2.1. Modelo 1
---
+<p align="justify">
+Al ser un caso orientado al análisis de negocio o Business Intelligence, la idea es obtener el modelo estrella en nuestro data warehouse, por ello, se toman todas las posibles entidades como Producto, Vendedor, Cliente, Tipo de documento y Bancos como dimensiones. Todos los campos de calculos de ventas irán en la tabla de hechos, como se muestra en la imagen:
+</p>
+
+<p align="center">
+  <img src="Imagenes/modelo.jpg">
+</p>
+
+<p align="justify">
+Aqui se detallan los campos que irian en la tabla de hechos:
+</p>
 
 ### 2.2. Modelo 2
 
