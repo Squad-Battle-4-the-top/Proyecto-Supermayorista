@@ -129,7 +129,7 @@ Aqui se detallan los campos que irian en la tabla de hechos:
 </p>
 
 <p align="center">
-  <img src="Imagenes/detalle_fact_ventas.png">
+  <img src="Imagenes/detalle_fact_ventas.PNG">
 </p>
 
 ### 2.2. Modelo 2
