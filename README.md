@@ -128,6 +128,10 @@ Al ser un caso orientado al análisis de negocio o Business Intelligence, la ide
 Aqui se detallan los campos que irian en la tabla de hechos:
 </p>
 
+<p align="center">
+  <img src="Imagenes/detalle_fact_ventas.jpg">
+</p>
+
 ### 2.2. Modelo 2
 
 <p align="justify">
