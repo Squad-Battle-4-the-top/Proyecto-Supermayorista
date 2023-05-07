@@ -22,6 +22,7 @@
   - 4.1.[Power BI](#41-power-bi)
   - 4.2.[Looker Studio](#42-looker-studio)
 - 5.[Conclusiones](#5-conclusiones)
+- 6.[Logros](#6-logros)
 
 ---
 ## 1. Proyecto SUPERMAYORISTA S.A.C.
@@ -297,7 +298,18 @@ Pueden echarle un vistazo aqui:
 
 ## 5. Conclusiones
 
-- 
+-	En el proceso de la obtención de la información de la empresa se transformó (ETL) los archivos planos a una información más ordenada, escalable y limpia de manera exitosa usando las herramientas Python, Jupyter, SQL Server.
+-	Ya con la información clara, oportuna y escalable obtenida con el proceso mencionado, se pudo responder las principales y más importantes interrogantes que la empresa requería para sus fines estratégicos, mediante el uso de las herramientas SQL Server.
+-	 A partir de la información más precisa que se logró obtener, y con las consultas resueltas, se realizó el respectivo dashboard, en la herramienta Looker Studio, divididos en secciones como Ventas, Productos, Vendedores, Zonas, Bancos.
+
+## 6. Logros
+
+-	Se obtuvo la información de manera oportuna, limpia y escalable.
+-	Se realizó el ETL de manera exitosa.
+-	Se creó el dashboard con la información oportuna.  
+
+
+
 
 
 
