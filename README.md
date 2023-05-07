@@ -121,7 +121,7 @@ Al ser un caso orientado al análisis de negocio o Business Intelligence, la ide
 </p>
 
 <p align="center">
-  <img src="Imagenes/modelo.jpg">
+  <img src="Imagenes/modelo.jpeg">
 </p>
 
 <p align="justify">
@@ -129,7 +129,7 @@ Aqui se detallan los campos que irian en la tabla de hechos:
 </p>
 
 <p align="center">
-  <img src="Imagenes/detalle_fact_ventas.jpg">
+  <img src="Imagenes/detalle_fact_ventas.png">
 </p>
 
 ### 2.2. Modelo 2
